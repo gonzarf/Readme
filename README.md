@@ -39,10 +39,6 @@ Está dirigida a una amplia audiencia de aficionados al fútbol y amantes del de
 **Jugadores Solitarios:** Para aquellos que no pueden reunir a un grupo de amigos, SoccerScout ofrece la posibilidad de unirse a partidos existentes y conectarse con nuevos compañeros de juego, fomentando la socialización a través del deporte.
     
  **Comunidades Deportivas Locales:** Equipos de fútbol, ligas y otras comunidades deportivas locales pueden utilizar SoccerScout para gestionar sus partidos, compartir eventos y facilitar la participación de nuevos miembros.
-    
-**Personas en Busca de Actividad Física:** La aplicación es ideal para aquellos que buscan mantenerse activos y saludables a través del fútbol, proporcionando una plataforma conveniente para programar partidos y unirse a eventos deportivos.
-    
-**Entusiastas de la Interacción Social:** La función de puntuación y el chat integrado fomentan la interacción social, permitiendo a los usuarios construir conexiones, compartir experiencias y fortalecer la comunidad SoccerScout.
 
 # DISEÑO DE LA APP
 **SoccerScout** se ha concebido con un enfoque centrado en el usuario, garantizando una experiencia intuitiva, atractiva y funcional. Aquí te presento los elementos clave del diseño de nuestra aplicación:
@@ -118,6 +114,41 @@ El diseño del logo se caracteriza por su simplicidad y limpieza, con un enfoque
 ![pin-de-ubicacion-removebg-preview](https://github.com/Ach2290/APP/assets/132547490/b34208c6-ea60-46b9-82fd-5fb3c7632c97)
 
 -Este icono lo utilizamos en las CardView donde se muestra los campos de futbol y su ubicacion además de en el RecyclerView.
+
+# DISEÑO DE LA APP
+**SoccerScout** se ha concebido con un enfoque centrado en el usuario, garantizando una experiencia intuitiva, atractiva y funcional. Aquí te presento los elementos clave del diseño de nuestra aplicación:
+
+-  **Interfaz Intuitiva:**
+    
+      **Navegación Sencilla:** Una interfaz de usuario limpia y organizada para facilitar la navegación. Menús intuitivos que permiten a los usuarios acceder fácilmente a las funciones principales.
+- **Pantalla de Inicio Atractiva:**
+    
+    -   **Presentación Dinámica:** Una pantalla de inicio atractiva que destaca las funciones principales de la aplicación, como la reserva de campos, la organización de partidos y la participación en eventos.
+-**Proceso de Reserva Eficiente:**
+    
+    -   **Flujo de Reserva Simple:** Un proceso de reserva de campos que guía al usuario de manera clara y rápida, con opciones personalizadas según la ubicación, horarios y preferencias.
+- **Perfil Personalizable:**
+    
+    -   **Edición de Perfil:** Una sección de perfil personalizable que permite a los usuarios compartir información sobre su estilo de juego, logros y preferencias, creando una identidad única dentro de la comunidad.
+-**Calendario de Partidos:**
+    
+    -   **Visualización Clara:** Un calendario interactivo que muestra los partidos programados para el día, facilitando la elección y unión a eventos existentes.
+-**Sistema de Puntuación:**
+    
+    -   **Integración de Puntuación:** Un sistema de puntuación claro y accesible para evaluar a compañeros de juego y recibir calificaciones, contribuyendo a una comunidad respetuosa y amigable.
+-**Chat Integrado:**
+    
+    -   **Comunicación en Tiempo Real:** Un chat integrado que permite a los usuarios coordinar detalles de partidos, discutir estrategias y construir relaciones dentro de la comunidad.
+-**Notificaciones Personalizadas:**
+    
+    -   **Información Relevante:** Notificaciones personalizadas que mantienen a los usuarios informados sobre partidos confirmados, nuevas oportunidades de juego y actualizaciones relevantes.
+- **Historial de Partidos:**
+    
+    -   **Acceso Rápido:** Una sección de historial de partidos que proporciona a los usuarios un acceso rápido a resultados anteriores, estadísticas y puntuaciones.
+    
+- **Diseño Responsivo:**
+     
+	- **Adaptabilidad:** Un diseño adaptable que garantiza una experiencia fluida en una variedad de dispositivos, desde teléfonos móviles hasta tabletas.
 
 ### ELEMENTOS DE DISEÑO
 
