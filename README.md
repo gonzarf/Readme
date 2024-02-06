@@ -118,3 +118,29 @@ El diseño del logo se caracteriza por su simplicidad y limpieza, con un enfoque
 ![pin-de-ubicacion-removebg-preview](https://github.com/Ach2290/APP/assets/132547490/b34208c6-ea60-46b9-82fd-5fb3c7632c97)
 
 -Este icono lo utilizamos en las CardView donde se muestra los campos de futbol y su ubicacion además de en el RecyclerView.
+
+### ELEMENTOS DE DISEÑO
+
+#### PANTALLA PRINCIPAL
+
+A continuacón se explican algunas pantallas de la app y detallan el uso de los elementos de diseño utilizados.
+
+![Captura de pantalla 2024-02-06 194212](https://github.com/gonzarf/Readme/assets/132547643/f1e82e2c-487c-4cea-a430-0e039819fcc6)
+
+- Como elemento principal, encontramos un RecyclerView que nos permite cargar la información de los diferentes partidos utilizando tarjetas que mostrarán información recopilada de la base de datos.
+
+- Justo arriba, contamos con una barra de búsqueda que nos facilita realizar búsquedas específicas entre los elementos cargados en el RecyclerView.
+  
+- En la esquina inferior derecha, se encuentra un botón (FloatingButton) que permanece fijo. Al hacer clic en él, se despliega un menú que posibilita la creación de partidos o equipos.
+
+- Finalmente, hallamos una barra de navegación que facilita la transición entre los diversos fragmentos de la aplicación al hacer clic en los iconos.
+
+El RecyclerView, la barra de navegación y la barra de búsqueda serán elementos comunes en las pantallas más importantes de la aplicación.
+
+#### PANTALLA DE PERFIL
+
+![Captura de pantalla 2024-02-06 194255](https://github.com/gonzarf/Readme/assets/132547643/48d89bfb-3754-4340-84ad-7f7412eb37c6)
+
+- En esta pantalla, se presenta una RatingBar con dos usos distintos. En el caso de que el usuario se encuientre en su perfil, servirá para ver que puntuación tiene y al clicar sobre ella, accederá a las opiniones que los demás usuarios han dejado sobre él. En caso de que  el usuario se encuentre en otro perfil, podrá clicar sobre el RatingBar para dejar el numero de estrellas que desee.
+
+
