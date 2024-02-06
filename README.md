@@ -12,7 +12,7 @@ Descubre una nueva forma de vivir tu pasión por el fútbol, conecta con otros e
 
 # Funcionalidades Clave de la APP
 
-1.  **Reserva de Campos de Primera Clase:** Explora y reserva los mejores campos de fútbol en tu ciudad con facilidad. Disfruta de instalaciones de primera clase para tus partidos y asegura una experiencia de juego inigualable.
+1.  **Reserva de Campos:** Explora y reserva los campos de fútbol en tu ciudad con facilidad. Disfruta de instalaciones de primera clase para tus partidos y asegura una experiencia de juego inigualable.
     
 2.  **Organización de Partidos con Amigos:** Planifica partidos con tus amigos de forma sencilla. Selecciona la fecha, hora y lugar, y comparte la invitación directamente desde la aplicación para asegurarte de que todos estén listos para el juego.
     
@@ -20,13 +20,9 @@ Descubre una nueva forma de vivir tu pasión por el fútbol, conecta con otros e
     
 4.  **Sistema de Puntuación:** Evalúa a tus compañeros de juego y recibe puntuaciones a cambio. Fomenta un ambiente respetuoso y amigable en la comunidad SoccerScout, reconociendo a aquellos que contribuyen positivamente a la experiencia deportiva.
     
-5.  **Notificaciones Personalizadas:** Mantente informado con notificaciones personalizadas sobre partidos, reservas confirmadas y nuevas oportunidades para jugar. Nunca te pierdas la acción y asegúrate de estar siempre conectado con la comunidad.
+5.  **Historial de Partidos:** Accede fácilmente a un historial detallado de tus partidos jugados, incluyendo resultados, estadísticas y puntuaciones. Revive tus mejores momentos y sigue tu progreso en la aplicación.
     
-6.  **Historial de Partidos:** Accede fácilmente a un historial detallado de tus partidos jugados, incluyendo resultados, estadísticas y puntuaciones. Revive tus mejores momentos y sigue tu progreso en la aplicación.
-    
-7.  **Perfil Personalizado:** Crea un perfil único que destaque tu estilo de juego, logros y preferencias. Comparte tu pasión por el fútbol y conecta con otros usuarios que comparten intereses similares.
-    
-8.  **Chat Integrado:** Comunícate con tus compañeros de equipo, rivales y otros usuarios a través de un chat integrado. Coordina detalles, comparte estrategias y construye relaciones dentro de la comunidad SoccerScout.
+6.  **Perfil Personalizado:** Crea un perfil único que destaque tu estilo de juego, logros y preferencias. Comparte tu pasión por el fútbol y conecta con otros usuarios que comparten intereses similares.
 
 # A quien va dirigida nuestra App
 
@@ -39,41 +35,6 @@ Está dirigida a una amplia audiencia de aficionados al fútbol y amantes del de
 **Jugadores Solitarios:** Para aquellos que no pueden reunir a un grupo de amigos, SoccerScout ofrece la posibilidad de unirse a partidos existentes y conectarse con nuevos compañeros de juego, fomentando la socialización a través del deporte.
     
  **Comunidades Deportivas Locales:** Equipos de fútbol, ligas y otras comunidades deportivas locales pueden utilizar SoccerScout para gestionar sus partidos, compartir eventos y facilitar la participación de nuevos miembros.
-
-# DISEÑO DE LA APP
-**SoccerScout** se ha concebido con un enfoque centrado en el usuario, garantizando una experiencia intuitiva, atractiva y funcional. Aquí te presento los elementos clave del diseño de nuestra aplicación:
-
--  **Interfaz Intuitiva:**
-    
-      **Navegación Sencilla:** Una interfaz de usuario limpia y organizada para facilitar la navegación. Menús intuitivos que permiten a los usuarios acceder fácilmente a las funciones principales.
-- **Pantalla de Inicio Atractiva:**
-    
-    -   **Presentación Dinámica:** Una pantalla de inicio atractiva que destaca las funciones principales de la aplicación, como la reserva de campos, la organización de partidos y la participación en eventos.
--**Proceso de Reserva Eficiente:**
-    
-    -   **Flujo de Reserva Simple:** Un proceso de reserva de campos que guía al usuario de manera clara y rápida, con opciones personalizadas según la ubicación, horarios y preferencias.
-- **Perfil Personalizable:**
-    
-    -   **Edición de Perfil:** Una sección de perfil personalizable que permite a los usuarios compartir información sobre su estilo de juego, logros y preferencias, creando una identidad única dentro de la comunidad.
--**Calendario de Partidos:**
-    
-    -   **Visualización Clara:** Un calendario interactivo que muestra los partidos programados para el día, facilitando la elección y unión a eventos existentes.
--**Sistema de Puntuación:**
-    
-    -   **Integración de Puntuación:** Un sistema de puntuación claro y accesible para evaluar a compañeros de juego y recibir calificaciones, contribuyendo a una comunidad respetuosa y amigable.
--**Chat Integrado:**
-    
-    -   **Comunicación en Tiempo Real:** Un chat integrado que permite a los usuarios coordinar detalles de partidos, discutir estrategias y construir relaciones dentro de la comunidad.
--**Notificaciones Personalizadas:**
-    
-    -   **Información Relevante:** Notificaciones personalizadas que mantienen a los usuarios informados sobre partidos confirmados, nuevas oportunidades de juego y actualizaciones relevantes.
-- **Historial de Partidos:**
-    
-    -   **Acceso Rápido:** Una sección de historial de partidos que proporciona a los usuarios un acceso rápido a resultados anteriores, estadísticas y puntuaciones.
-    
-- **Diseño Responsivo:**
-     
-	- **Adaptabilidad:** Un diseño adaptable que garantiza una experiencia fluida en una variedad de dispositivos, desde teléfonos móviles hasta tabletas.
 
 ### LOGO
 
@@ -116,39 +77,19 @@ El diseño del logo se caracteriza por su simplicidad y limpieza, con un enfoque
 -Este icono lo utilizamos en las CardView donde se muestra los campos de futbol y su ubicacion además de en el RecyclerView.
 
 # DISEÑO DE LA APP
-**SoccerScout** se ha concebido con un enfoque centrado en el usuario, garantizando una experiencia intuitiva, atractiva y funcional. Aquí te presento los elementos clave del diseño de nuestra aplicación:
+**SoccerScout** se ha concebido con un enfoque centrado en el usuario, garantizando una experiencia intuitiva, atractiva y funcional. Aquí se presentan los elementos clave del diseño de la aplicación:
+    
+-**Navegación Sencilla:** Una interfaz de usuario limpia y organizada para facilitar la navegación. Menús intuitivos que permiten a los usuarios acceder fácilmente a las funciones principales.
+    
+-**Flujo de Reserva Simple:** Un proceso de reserva de campos que guía al usuario de manera clara y rápida, con opciones personalizadas según la ubicación, horarios y preferencias.
 
--  **Interfaz Intuitiva:**
-    
-      **Navegación Sencilla:** Una interfaz de usuario limpia y organizada para facilitar la navegación. Menús intuitivos que permiten a los usuarios acceder fácilmente a las funciones principales.
-- **Pantalla de Inicio Atractiva:**
-    
-    -   **Presentación Dinámica:** Una pantalla de inicio atractiva que destaca las funciones principales de la aplicación, como la reserva de campos, la organización de partidos y la participación en eventos.
--**Proceso de Reserva Eficiente:**
-    
-    -   **Flujo de Reserva Simple:** Un proceso de reserva de campos que guía al usuario de manera clara y rápida, con opciones personalizadas según la ubicación, horarios y preferencias.
-- **Perfil Personalizable:**
-    
-    -   **Edición de Perfil:** Una sección de perfil personalizable que permite a los usuarios compartir información sobre su estilo de juego, logros y preferencias, creando una identidad única dentro de la comunidad.
--**Calendario de Partidos:**
-    
-    -   **Visualización Clara:** Un calendario interactivo que muestra los partidos programados para el día, facilitando la elección y unión a eventos existentes.
--**Sistema de Puntuación:**
-    
-    -   **Integración de Puntuación:** Un sistema de puntuación claro y accesible para evaluar a compañeros de juego y recibir calificaciones, contribuyendo a una comunidad respetuosa y amigable.
--**Chat Integrado:**
-    
-    -   **Comunicación en Tiempo Real:** Un chat integrado que permite a los usuarios coordinar detalles de partidos, discutir estrategias y construir relaciones dentro de la comunidad.
--**Notificaciones Personalizadas:**
-    
-    -   **Información Relevante:** Notificaciones personalizadas que mantienen a los usuarios informados sobre partidos confirmados, nuevas oportunidades de juego y actualizaciones relevantes.
-- **Historial de Partidos:**
-    
-    -   **Acceso Rápido:** Una sección de historial de partidos que proporciona a los usuarios un acceso rápido a resultados anteriores, estadísticas y puntuaciones.
-    
-- **Diseño Responsivo:**
-     
-	- **Adaptabilidad:** Un diseño adaptable que garantiza una experiencia fluida en una variedad de dispositivos, desde teléfonos móviles hasta tabletas.
+-**Edición de Perfil:** Una sección de perfil personalizable que permite a los usuarios compartir información sobre su estilo de juego, logros y preferencias, creando una identidad única dentro de la comunidad.
+
+-**Calendario de Partidos:** Un calendario interactivo que muestra los partidos programados para el día, facilitando la elección y unión a eventos existentes.
+
+-**Sistema de Puntuación:** Un sistema de puntuación claro y accesible para evaluar a compañeros de juego y recibir calificaciones, contribuyendo a una comunidad respetuosa y amigable.
+
+- **Historial de Partidos:** Una sección de historial de partidos que proporciona a los usuarios un acceso rápido a resultados anteriores, estadísticas y puntuaciones.
 
 ### ELEMENTOS DE DISEÑO
 
